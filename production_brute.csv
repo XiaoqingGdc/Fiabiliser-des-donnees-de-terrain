@@ -1,0 +1,29 @@
+site;horodatage;production;unite
+Parc Mistral;2024-06-01 06:00;210,5;kW
+parc mistral;2024-06-01 12:00;1320,8;kW
+parc mistral;2024-06-01 12:00;1315,0;kW
+PARC MISTRAL;2024-06-01 18:00;540;kW
+  Parc Mistral;2024-06-02 06:00;;kW
+Parc Mistral ;2024-06-02 12:00;1290,4;kW
+Parc Mistral;2024-06-02 18:00;-9999;kW
+Parc du Levant;2024-06-01 06:00;1,8;MW
+parc du levant;2024-06-01 12:00;2,1;MW
+Parc du Levant;2024-06-01 18:00;1650,0;kW
+Parc du Levant;2024-06-01 18:00;1650,0;kW
+PARC DU LEVANT ;2024-06-02 06:00;-45;kW
+parc du levant;2024-06-02 12:00;1980,5;kW
+Parc du Levant;2024-06-02 18:00;2,0;MW
+Solaire Garrigue;2024-06-01 06:00;180,2;kW
+solaire garrigue ;2024-06-01 12:00;1105,6;kW
+SOLAIRE GARRIGUE;2024-06-01 18:00;430,9;kW
+Solaire Garrigue;2024-06-02 06:00;;kW
+Solaire Garrigue;2024-06-02 12:00;1150,2;kW
+solaire garrigue;2024-06-02 12:00;1148,0;kW
+Solaire Garrigue;2024-06-02 18:00;-12,5;kW
+Plaine du Vent;2024-06-01 06:00;820,0;kW
+Plaine du Vent;2024-06-01 06:00;820,0;kW
+plaine du vent;2024-06-01 12:00;1,5;MW
+Plaine du Vent ;2024-06-01 18:00;1420,7;kW
+PLAINE DU VENT;2024-06-02 06:00;-9999;kW
+Plaine du Vent;2024-06-02 12:00;1735,3;kW
+plaine du vent;2024-06-02 18:00;1,9;MW
